@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Anatomía - Juego de práctica</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <img src="./assets/neuro-mark.svg" alt="" aria-hidden="true" />
+          <div>
+            <h1>Anatomía</h1>
+            <p>Universidad de Costa Rica · Escuela de Medicina</p>
+          </div>
+        </div>
+
+        <div class="scoreboard" aria-live="polite">
+          <div>
+            <span class="score-label">Puntaje</span>
+            <strong id="scoreValue">0 / 0</strong>
+          </div>
+          <div>
+            <span class="score-label">Avance</span>
+            <strong id="progressValue">0%</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="game-layout">
+        <aside class="side-panel" aria-label="Lista de preguntas">
+          <div class="filters" role="tablist" aria-label="Base de preguntas">
+            <button class="filter-button is-active" type="button" data-filter="p1-2025">Primer 2025</button>
+            <button class="filter-button" type="button" data-filter="p1-2026">Primer 2026</button>
+            <button class="filter-button" type="button" data-filter="p2-2025">Segundo 2025</button>
+            <button class="filter-button" type="button" data-filter="p2-2026">Segundo 2026</button>
+            <button class="filter-button" type="button" data-filter="p3-2025">Tercer 2025</button>
+            <button class="filter-button" type="button" data-filter="p3-2026">Tercer 2026</button>
+            <button class="filter-button final" type="button" data-filter="final-2025">Final 2025</button>
+            <button class="filter-button random" type="button" data-filter="random-2025">Aleatorio 2025</button>
+            <button class="filter-button random" type="button" data-filter="random-2026">Aleatorio 2026</button>
+            <button class="filter-button random mix" type="button" data-filter="random-mix">Aleatorio Mix</button>
+          </div>
+
+          <div class="side-summary">
+            <span id="setLabel">30 preguntas</span>
+            <div class="game-controls">
+              <button id="stopButton" class="control-button stop" type="button">Detener</button>
+              <button id="resetButton" class="control-button" type="button">Reiniciar</button>
+            </div>
+          </div>
+
+          <div id="questionList" class="question-list"></div>
+        </aside>
+
+        <section class="quiz-panel" aria-live="polite">
+          <div class="question-meta">
+            <span id="bankPill" class="pill">Primer Parcial 2025</span>
+            <span id="professorLabel"></span>
+            <span id="positionLabel"></span>
+          </div>
+
+          <h2 id="questionText"></h2>
+
+          <div id="noteBanner" class="note-banner" hidden></div>
+
+          <div id="options" class="options"></div>
+
+          <div id="feedback" class="feedback" hidden></div>
+
+          <footer class="quiz-actions">
+            <button id="prevButton" class="ghost-button" type="button">Anterior</button>
+            <button id="nextButton" class="primary-button" type="button">Siguiente</button>
+          </footer>
+        </section>
+
+        <section class="review-panel" aria-label="Resumen">
+          <h2>Resumen</h2>
+          <div class="review-metrics">
+            <div>
+              <span class="score-label">Correctas</span>
+              <strong id="correctCount">0</strong>
+            </div>
+            <div>
+              <span class="score-label">Incorrectas</span>
+              <strong id="wrongCount">0</strong>
+            </div>
+            <div>
+              <span class="score-label">Pendientes</span>
+              <strong id="pendingCount">0</strong>
+            </div>
+          </div>
+          <div id="reviewList" class="review-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./questions.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

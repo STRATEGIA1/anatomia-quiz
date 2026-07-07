@@ -178,7 +178,7 @@ button {
 }
 
 .filter-button.final {
-  grid-column: 1 / -1;
+  border-color: rgba(183, 121, 31, 0.35);
 }
 
 .filter-button.random.mix {

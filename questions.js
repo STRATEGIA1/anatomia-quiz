@@ -8286,5 +8286,1633 @@ window.ANATOMIA_QUESTIONS = [
     "answerText": "Respuesta correcta: C) La inversión. El mecanismo clásico del esguince lateral de tobillo es inversión, con frecuencia asociado a plantarflexión.",
     "explanation": "Respuesta correcta: C) La inversión. El mecanismo clásico del esguince lateral de tobillo es inversión, con frecuencia asociado a plantarflexión.",
     "noteType": null
+  },
+  {
+    "id": "final-2026-01",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 1,
+    "question": "Uno de los músculos escapulohumerales es el infraespinoso, cuya inervación está dada principalmente por el nervio:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supraescapular."
+      },
+      {
+        "id": "B",
+        "text": "Torácico largo."
+      },
+      {
+        "id": "C",
+        "text": "Subescapular."
+      },
+      {
+        "id": "D",
+        "text": "Accesorio."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Supraescapular. El nervio supraescapular inerva supraespinoso e infraespinoso.",
+    "explanation": "Respuesta correcta: A) Supraescapular. El nervio supraescapular inerva supraespinoso e infraespinoso.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-02",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 2,
+    "question": "De los siguientes músculos que tienen acción sobre la cintura escapular, ¿cuál se clasifica como axioapendicular anterior?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Redondo mayor."
+      },
+      {
+        "id": "B",
+        "text": "Pectoral menor."
+      },
+      {
+        "id": "C",
+        "text": "Supraespinoso."
+      },
+      {
+        "id": "D",
+        "text": "Subescapular."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Pectoral menor. El pectoral menor es axioapendicular anterior. Redondo mayor, supraespinoso y subescapular son escapulohumerales o axioapendiculares posteriores según la clasificación usada.",
+    "explanation": "Respuesta correcta: B) Pectoral menor. El pectoral menor es axioapendicular anterior. Redondo mayor, supraespinoso y subescapular son escapulohumerales o axioapendiculares posteriores según la clasificación usada.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-03",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 3,
+    "question": "Cuando el miembro superior se encuentra en abducción a 180°, la contribución de la rotación de la escápula para lograr esa amplitud es equivalente a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "60°."
+      },
+      {
+        "id": "B",
+        "text": "45°."
+      },
+      {
+        "id": "C",
+        "text": "30°."
+      },
+      {
+        "id": "D",
+        "text": "15°."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) 60°. Ritmo escapulohumeral clásico: 120° glenohumerales + 60° escapulotorácicos.",
+    "explanation": "Respuesta correcta: A) 60°. Ritmo escapulohumeral clásico: 120° glenohumerales + 60° escapulotorácicos.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-04",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 4,
+    "question": "Estructuralmente, la articulación esternoclavicular es una articulación sinovial de tipo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Silla de montar."
+      },
+      {
+        "id": "B",
+        "text": "Esferoidea."
+      },
+      {
+        "id": "C",
+        "text": "Elipsoidea."
+      },
+      {
+        "id": "D",
+        "text": "Pivote."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Silla de montar.",
+    "explanation": "Respuesta correcta: A) Silla de montar.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-05",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 5,
+    "question": "El músculo mayormente implicado en la rotación ascendente de la escápula corresponde al:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elevador de la escápula."
+      },
+      {
+        "id": "B",
+        "text": "Serrato anterior."
+      },
+      {
+        "id": "C",
+        "text": "Dorsal ancho."
+      },
+      {
+        "id": "D",
+        "text": "Trapecio."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Serrato anterior. La rotación ascendente de la escápula depende principalmente del serrato anterior y el trapecio. Si hay que escoger uno como clave, el serrato anterior es la mejor respuesta. El elevador de la escápula participa más en rotación descendente.",
+    "explanation": "Respuesta correcta: B) Serrato anterior. La rotación ascendente de la escápula depende principalmente del serrato anterior y el trapecio. Si hay que escoger uno como clave, el serrato anterior es la mejor respuesta. El elevador de la escápula participa más en rotación descendente.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-06",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 6,
+    "question": "El “manguito de los rotadores” está conformado por los siguientes músculos:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Redondo mayor, redondo menor, supraespinoso, infraespinoso."
+      },
+      {
+        "id": "B",
+        "text": "Infraespinoso, subescapular, supraespinoso, redondo menor."
+      },
+      {
+        "id": "C",
+        "text": "Deltoides, supraespinoso, infraespinoso, redondo mayor."
+      },
+      {
+        "id": "D",
+        "text": "Subescapular, subclavio, supraespinoso, infraespinoso."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Infraespinoso, subescapular, supraespinoso, redondo menor. Regla: SITS — supraespinoso, infraespinoso, redondo menor y subescapular.",
+    "explanation": "Respuesta correcta: B) Infraespinoso, subescapular, supraespinoso, redondo menor. Regla: SITS — supraespinoso, infraespinoso, redondo menor y subescapular.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-07",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 7,
+    "question": "¿Cuál de los siguientes músculos escapulohumerales participa en rotar lateralmente al brazo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porción anterior del deltoides."
+      },
+      {
+        "id": "B",
+        "text": "Redondo menor."
+      },
+      {
+        "id": "C",
+        "text": "Redondo mayor."
+      },
+      {
+        "id": "D",
+        "text": "Supraespinoso."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Redondo menor. El redondo menor es rotador lateral del brazo.",
+    "explanation": "Respuesta correcta: B) Redondo menor. El redondo menor es rotador lateral del brazo.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-08",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 8,
+    "question": "¿Cuál de los siguientes se clasifica como un ligamento intrínseco de la articulación glenohumeral?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glenohumeral inferior."
+      },
+      {
+        "id": "B",
+        "text": "Acromioclavicular."
+      },
+      {
+        "id": "C",
+        "text": "Coracoacromial."
+      },
+      {
+        "id": "D",
+        "text": "Interclavicular."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Glenohumeral inferior. Los ligamentos glenohumerales son intrínsecos/capsulares de la articulación glenohumeral.",
+    "explanation": "Respuesta correcta: A) Glenohumeral inferior. Los ligamentos glenohumerales son intrínsecos/capsulares de la articulación glenohumeral.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-09",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 9,
+    "question": "¿Cuál de las siguientes corresponde a una estructura intraarticular en la articulación glenohumeral?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tendón de la cabeza larga del bíceps braquial."
+      },
+      {
+        "id": "B",
+        "text": "Ligamento glenohumeral superior."
+      },
+      {
+        "id": "C",
+        "text": "Ligamento coracoacromial."
+      },
+      {
+        "id": "D",
+        "text": "Rodete acetabular."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Tendón de la cabeza larga del bíceps braquial. El tendón de la cabeza larga del bíceps pasa intraarticularmente por la articulación glenohumeral. El rodete correcto sería glenoideo, no acetabular.",
+    "explanation": "Respuesta correcta: A) Tendón de la cabeza larga del bíceps braquial. El tendón de la cabeza larga del bíceps pasa intraarticularmente por la articulación glenohumeral. El rodete correcto sería glenoideo, no acetabular.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-10",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 10,
+    "question": "Respecto a los movimientos de la articulación glenohumeral, el principal músculo encargado de la rotación medial corresponde a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Redondo menor."
+      },
+      {
+        "id": "B",
+        "text": "Subescapular."
+      },
+      {
+        "id": "C",
+        "text": "Infraespinoso."
+      },
+      {
+        "id": "D",
+        "text": "Deltoides."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Subescapular. El subescapular es el principal rotador medial del manguito rotador.",
+    "explanation": "Respuesta correcta: B) Subescapular. El subescapular es el principal rotador medial del manguito rotador.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-11",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 11,
+    "question": "En relación con los grados de movilidad normales, en la articulación coxofemoral se puede realizar una hiperextensión hasta los ___ grados.",
+    "options": [
+      {
+        "id": "A",
+        "text": "90."
+      },
+      {
+        "id": "B",
+        "text": "60."
+      },
+      {
+        "id": "C",
+        "text": "45."
+      },
+      {
+        "id": "D",
+        "text": "15."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) 15°. La hiperextensión normal de cadera suele estar alrededor de 15°.",
+    "explanation": "Respuesta correcta: D) 15°. La hiperextensión normal de cadera suele estar alrededor de 15°.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-12",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 12,
+    "question": "¿En qué condiciones se presenta la mayor congruencia entre las superficies articulares del acetábulo y la cabeza femoral?",
+    "options": [
+      {
+        "id": "A",
+        "text": "45° de extensión, 15° de rotación lateral y 10° de abducción."
+      },
+      {
+        "id": "B",
+        "text": "90° de extensión, 5° de abducción y 10° de rotación lateral."
+      },
+      {
+        "id": "C",
+        "text": "10° de rotación lateral, 5° de abducción y 90° de flexión."
+      },
+      {
+        "id": "D",
+        "text": "45° de flexión, 10° de abducción y 5° de rotación lateral."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) 10° de rotación lateral, 5° de abducción y 90° de flexión. Es la misma fórmula vista en otros exámenes: 90° de flexión, 5° de abducción y 10° de rotación lateral.",
+    "explanation": "Respuesta correcta: C) 10° de rotación lateral, 5° de abducción y 90° de flexión. Es la misma fórmula vista en otros exámenes: 90° de flexión, 5° de abducción y 10° de rotación lateral.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-13",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 13,
+    "question": "¿Cuál nervio tiene a cargo la inervación del músculo grácil?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ilioinguinal."
+      },
+      {
+        "id": "B",
+        "text": "Obturador."
+      },
+      {
+        "id": "C",
+        "text": "Isquiático."
+      },
+      {
+        "id": "D",
+        "text": "Femoral."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Obturador. El grácil pertenece al compartimento medial del muslo y lo inerva el nervio obturador.",
+    "explanation": "Respuesta correcta: B) Obturador. El grácil pertenece al compartimento medial del muslo y lo inerva el nervio obturador.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-14",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 14,
+    "question": "¿Cuál nervio tiene a cargo la inervación del músculo glúteo mayor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Glúteo superior."
+      },
+      {
+        "id": "B",
+        "text": "Glúteo inferior."
+      },
+      {
+        "id": "C",
+        "text": "Femoral."
+      },
+      {
+        "id": "D",
+        "text": "Ciático."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Glúteo inferior.",
+    "explanation": "Respuesta correcta: B) Glúteo inferior.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-15",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 15,
+    "question": "De las siguientes, identifique una característica que presenta el ligamento pubofemoral:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es el más fuerte de los ligamentos corporales."
+      },
+      {
+        "id": "B",
+        "text": "Resiste contra rotación lateral."
+      },
+      {
+        "id": "C",
+        "text": "Presenta forma de letra “Y”."
+      },
+      {
+        "id": "D",
+        "text": "Resiste contra aducción."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta anatómica más defendible: B) Resiste contra rotación lateral. El pubofemoral limita principalmente la abducción excesiva y también contribuye a limitar extensión y rotación lateral. Nota: ninguna opción está perfecta, porque la función clásica esperada suele ser “evitar la sobreabducción”, pero aquí no aparece. La forma de “Y” corresponde al iliofemoral.",
+    "explanation": "Respuesta anatómica más defendible: B) Resiste contra rotación lateral. El pubofemoral limita principalmente la abducción excesiva y también contribuye a limitar extensión y rotación lateral. Nota: ninguna opción está perfecta, porque la función clásica esperada suele ser “evitar la sobreabducción”, pero aquí no aparece. La forma de “Y” corresponde al iliofemoral.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-16",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 16,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta en relación con los ligamentos cruzados en la rodilla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El cruzado posterior evita el desplazamiento posterior de la tibia sobre el fémur."
+      },
+      {
+        "id": "B",
+        "text": "El cruzado anterior evita el desplazamiento posterior de la tibia sobre el fémur."
+      },
+      {
+        "id": "C",
+        "text": "El cruzado anterior es el más fuerte."
+      },
+      {
+        "id": "D",
+        "text": "El cruzado posterior es el más débil."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) El cruzado posterior evita el desplazamiento posterior de la tibia sobre el fémur. El LCP limita el desplazamiento posterior de la tibia. El LCA limita el desplazamiento anterior.",
+    "explanation": "Respuesta correcta: A) El cruzado posterior evita el desplazamiento posterior de la tibia sobre el fémur. El LCP limita el desplazamiento posterior de la tibia. El LCA limita el desplazamiento anterior.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-17",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 17,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta en relación con los meniscos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambos meniscos son delgados en sus bordes externos."
+      },
+      {
+        "id": "B",
+        "text": "El menisco medial es más pequeño que el lateral."
+      },
+      {
+        "id": "C",
+        "text": "El menisco lateral tiene forma casi circular."
+      },
+      {
+        "id": "D",
+        "text": "Son ligamentos extracapsulares."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) El menisco lateral tiene forma casi circular. El menisco medial es más en forma de C; el lateral es más circular.",
+    "explanation": "Respuesta correcta: C) El menisco lateral tiene forma casi circular. El menisco medial es más en forma de C; el lateral es más circular.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-18",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 18,
+    "question": "¿Cuál de las bursas o bolsas en la articulación de la rodilla suele tener mayor tamaño?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Subtendinosa prepatelar."
+      },
+      {
+        "id": "B",
+        "text": "Suprapatelar."
+      },
+      {
+        "id": "C",
+        "text": "Poplítea."
+      },
+      {
+        "id": "D",
+        "text": "Anserina."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Suprapatelar. La bolsa suprapatelar es la más grande y se comunica con la cavidad articular.",
+    "explanation": "Respuesta correcta: B) Suprapatelar. La bolsa suprapatelar es la más grande y se comunica con la cavidad articular.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-19",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 19,
+    "question": "¿Cuál de las siguientes opciones indica correctamente la extensión del ligamento rotuliano?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desde la base de la patela hasta el vértice de la cabeza fibular."
+      },
+      {
+        "id": "B",
+        "text": "Desde el vértice de la patela hasta la tuberosidad de la tibia."
+      },
+      {
+        "id": "C",
+        "text": "Desde la base de la patela hasta la tuberosidad de la fíbula."
+      },
+      {
+        "id": "D",
+        "text": "Desde los cóndilos femorales hasta los cóndilos tibiales."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Desde el vértice de la patela hasta la tuberosidad de la tibia.",
+    "explanation": "Respuesta correcta: B) Desde el vértice de la patela hasta la tuberosidad de la tibia.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-20",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Sergio Jiménez M.",
+    "number": 20,
+    "question": "¿Cuál de las siguientes posiciones es la que ofrece mayor estabilidad a la rodilla?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Flexionada 45°, en decúbito supino."
+      },
+      {
+        "id": "B",
+        "text": "Extendida, en decúbito prono."
+      },
+      {
+        "id": "C",
+        "text": "Extendida en bipedestación."
+      },
+      {
+        "id": "D",
+        "text": "Flexionada a 90°."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Extendida en bipedestación. La rodilla es más estable en extensión, especialmente en carga/bipedestación por el mecanismo de bloqueo.",
+    "explanation": "Respuesta correcta: C) Extendida en bipedestación. La rodilla es más estable en extensión, especialmente en carga/bipedestación por el mecanismo de bloqueo.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-21",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 21,
+    "question": "El siguiente hueso del cráneo es un hueso par:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Frontal."
+      },
+      {
+        "id": "B",
+        "text": "Parietal."
+      },
+      {
+        "id": "C",
+        "text": "Occipital."
+      },
+      {
+        "id": "D",
+        "text": "Esfenoides."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Parietal. Hay dos parietales. Frontal, occipital y esfenoides son impares.",
+    "explanation": "Respuesta correcta: B) Parietal. Hay dos parietales. Frontal, occipital y esfenoides son impares.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-22",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 22,
+    "question": "Señale el punto craneométrico sobre la calvaria, ubicado en la unión de las suturas coronal y sagital:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pterión."
+      },
+      {
+        "id": "B",
+        "text": "Lambda."
+      },
+      {
+        "id": "C",
+        "text": "Bregma."
+      },
+      {
+        "id": "D",
+        "text": "Asterión."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Bregma.",
+    "explanation": "Respuesta correcta: C) Bregma.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-23",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 23,
+    "question": "¿Cuál tabique de duramadre se encarga de separar ambos hemisferios cerebrales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Falx cerebri."
+      },
+      {
+        "id": "B",
+        "text": "Falx cerebelli."
+      },
+      {
+        "id": "C",
+        "text": "Diafragma sellae."
+      },
+      {
+        "id": "D",
+        "text": "Tienda del cerebelo."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Falx cerebri. La hoz del cerebro separa los hemisferios cerebrales.",
+    "explanation": "Respuesta correcta: A) Falx cerebri. La hoz del cerebro separa los hemisferios cerebrales.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-24",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 24,
+    "question": "Indique el nombre del surco que separa o limita al lóbulo frontal del lóbulo parietal:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lateral."
+      },
+      {
+        "id": "B",
+        "text": "Central."
+      },
+      {
+        "id": "C",
+        "text": "Calcarino."
+      },
+      {
+        "id": "D",
+        "text": "Longitudinal."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Central. El surco central separa frontal de parietal.",
+    "explanation": "Respuesta correcta: B) Central. El surco central separa frontal de parietal.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-25",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 25,
+    "question": "El nervio vago —NC X— sale del cráneo a través del siguiente foramen:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Oval."
+      },
+      {
+        "id": "B",
+        "text": "Yugular."
+      },
+      {
+        "id": "C",
+        "text": "Rasgado."
+      },
+      {
+        "id": "D",
+        "text": "Meato acústico interno."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Yugular. Por el foramen yugular salen IX, X y XI.",
+    "explanation": "Respuesta correcta: B) Yugular. Por el foramen yugular salen IX, X y XI.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-26",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 26,
+    "question": "El nervio frénico tiene su origen en las siguientes 3 raíces nerviosas periféricas:",
+    "options": [
+      {
+        "id": "A",
+        "text": "C1-C2-C3."
+      },
+      {
+        "id": "B",
+        "text": "C3-C4-C5."
+      },
+      {
+        "id": "C",
+        "text": "C5-C6-C7."
+      },
+      {
+        "id": "D",
+        "text": "C7-C8-T1."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) C3-C4-C5. Regla clásica: C3, C4 y C5 mantienen vivo el diafragma.",
+    "explanation": "Respuesta correcta: B) C3-C4-C5. Regla clásica: C3, C4 y C5 mantienen vivo el diafragma.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-27",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 27,
+    "question": "El nervio radial y el nervio mediano se originan del siguiente grupo de raíces nerviosas del plexo braquial:",
+    "options": [
+      {
+        "id": "A",
+        "text": "C4-C7."
+      },
+      {
+        "id": "B",
+        "text": "C5-C6."
+      },
+      {
+        "id": "C",
+        "text": "C5-T1."
+      },
+      {
+        "id": "D",
+        "text": "C7-T1."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) C5-T1. El radial recibe fibras de C5-T1; el mediano también recibe fibras principalmente C5-T1.",
+    "explanation": "Respuesta correcta: C) C5-T1. El radial recibe fibras de C5-T1; el mediano también recibe fibras principalmente C5-T1.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-28",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 28,
+    "question": "En la extremidad superior, los dermatomas de la región de la palma de la mano están inervados por las siguientes raíces:",
+    "options": [
+      {
+        "id": "A",
+        "text": "C1-C2-C3."
+      },
+      {
+        "id": "B",
+        "text": "C3-C4-C5."
+      },
+      {
+        "id": "C",
+        "text": "C6-C7-C8."
+      },
+      {
+        "id": "D",
+        "text": "T1-T2-T3."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) C6-C7-C8. La mano se distribuye principalmente entre C6, C7 y C8.",
+    "explanation": "Respuesta correcta: C) C6-C7-C8. La mano se distribuye principalmente entre C6, C7 y C8.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-29",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 29,
+    "question": "Los músculos extensores del antebrazo están inervados principalmente por el siguiente nervio periférico:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Radial."
+      },
+      {
+        "id": "B",
+        "text": "Ulnar."
+      },
+      {
+        "id": "C",
+        "text": "Mediano."
+      },
+      {
+        "id": "D",
+        "text": "Musculocutáneo."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Radial.",
+    "explanation": "Respuesta correcta: A) Radial.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-30",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 30,
+    "question": "En los nervios parasimpáticos —craneales y sacros—, el tipo de receptor que se ubica sobre la pared o superficie del órgano diana/efector es el siguiente:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alfa."
+      },
+      {
+        "id": "B",
+        "text": "Beta."
+      },
+      {
+        "id": "C",
+        "text": "Nicotínico."
+      },
+      {
+        "id": "D",
+        "text": "Muscarínico."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) Muscarínico. En el órgano efector parasimpático, la acetilcolina actúa sobre receptores muscarínicos. Los nicotínicos están en ganglios autonómicos.",
+    "explanation": "Respuesta correcta: D) Muscarínico. En el órgano efector parasimpático, la acetilcolina actúa sobre receptores muscarínicos. Los nicotínicos están en ganglios autonómicos.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-31",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 31,
+    "question": "Forman la articulación cigapofisaria las siguientes dos estructuras vertebrales:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pedículo y lámina."
+      },
+      {
+        "id": "B",
+        "text": "Proceso transverso y pedículo."
+      },
+      {
+        "id": "C",
+        "text": "Disco vertebral y cuerpo vertebral."
+      },
+      {
+        "id": "D",
+        "text": "Proceso articular inferior y superior."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) Proceso articular inferior y superior. Las articulaciones cigapofisarias son entre procesos articulares superiores e inferiores de vértebras adyacentes.",
+    "explanation": "Respuesta correcta: D) Proceso articular inferior y superior. Las articulaciones cigapofisarias son entre procesos articulares superiores e inferiores de vértebras adyacentes.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-32",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 32,
+    "question": "La siguiente estructura anatómica se encarga de unir entre sí las láminas de vértebras adyacentes:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ligamento amarillo."
+      },
+      {
+        "id": "B",
+        "text": "Ligamento interespinoso."
+      },
+      {
+        "id": "C",
+        "text": "Ligamento longitudinal anterior."
+      },
+      {
+        "id": "D",
+        "text": "Ligamento longitudinal posterior."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Ligamento amarillo. Los ligamentos amarillos unen láminas vertebrales adyacentes.",
+    "explanation": "Respuesta correcta: A) Ligamento amarillo. Los ligamentos amarillos unen láminas vertebrales adyacentes.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-33",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 33,
+    "question": "La siguiente vértebra cervical es la más ancha y no tiene proceso espinoso:",
+    "options": [
+      {
+        "id": "A",
+        "text": "C4."
+      },
+      {
+        "id": "B",
+        "text": "C3."
+      },
+      {
+        "id": "C",
+        "text": "C2."
+      },
+      {
+        "id": "D",
+        "text": "C1."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) C1. El atlas no tiene cuerpo ni proceso espinoso verdadero.",
+    "explanation": "Respuesta correcta: D) C1. El atlas no tiene cuerpo ni proceso espinoso verdadero.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-34",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 34,
+    "question": "La inserción inferior del músculo esplenio de la cabeza se ubica sobre la siguiente estructura anatómica:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ligamento anular."
+      },
+      {
+        "id": "B",
+        "text": "Proceso mastoides."
+      },
+      {
+        "id": "C",
+        "text": "Proceso transverso de C1."
+      },
+      {
+        "id": "D",
+        "text": "Protuberancia occipital externa."
+      },
+      {
+        "id": "E",
+        "text": "Ninguna opción es ideal."
+      }
+    ],
+    "correctOptionId": "E",
+    "examExpectedOptionId": "B",
+    "answerText": "Respuesta anatómica correcta: ninguna opción está bien formulada. El esplenio de la cabeza tiene origen/inserción inferior en la parte inferior del ligamento nucal y procesos espinosos C7-T3/T4, y se inserta superiormente en el proceso mastoides y línea nucal superior.",
+    "explanation": "Si la pregunta realmente quiso preguntar por la inserción superior, la mejor respuesta sería B) Proceso mastoides. Pero tal como está escrita —“inserción inferior”—, no hay opción correcta.",
+    "noteType": "defective"
+  },
+  {
+    "id": "final-2026-35",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 35,
+    "question": "El músculo esplenio cervical tiene su inserción inferior a nivel de la siguiente estructura anatómica:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proceso transverso C1."
+      },
+      {
+        "id": "B",
+        "text": "Arcos costales de C2-C7."
+      },
+      {
+        "id": "C",
+        "text": "Procesos transversos de C1-C3."
+      },
+      {
+        "id": "D",
+        "text": "Procesos transversos vértebras torácicas T4-T6."
+      },
+      {
+        "id": "E",
+        "text": "Ninguna opción es ideal."
+      }
+    ],
+    "correctOptionId": "E",
+    "examExpectedOptionId": "C",
+    "answerText": "Respuesta anatómica correcta: ninguna opción está perfectamente escrita. El esplenio cervical suele originarse inferiormente en procesos espinosos torácicos altos —aprox. T3-T6— y se inserta superiormente en procesos transversos C1-C3/C4.",
+    "explanation": "Si el examen quiso decir “inserción superior”, sería C) Procesos transversos de C1-C3. Si quiso decir “origen inferior”, debería decir procesos espinosos T3-T6, pero esa opción no aparece.",
+    "noteType": "defective"
+  },
+  {
+    "id": "final-2026-36",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 36,
+    "question": "El grupo de los músculos flexores del antebrazo tienen su origen anatómico en la siguiente estructura ósea:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Epicóndilo lateral."
+      },
+      {
+        "id": "B",
+        "text": "Epicóndilo medial."
+      },
+      {
+        "id": "C",
+        "text": "Cresta supracondílea medial."
+      },
+      {
+        "id": "D",
+        "text": "Cresta supracondílea lateral."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Epicóndilo medial. El origen común flexor-pronador está en el epicóndilo medial del húmero.",
+    "explanation": "Respuesta correcta: B) Epicóndilo medial. El origen común flexor-pronador está en el epicóndilo medial del húmero.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-37",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 37,
+    "question": "El huesecillo del carpo trapecio se articula con el siguiente huesecillo del carpo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pisiforme."
+      },
+      {
+        "id": "B",
+        "text": "Piramidal."
+      },
+      {
+        "id": "C",
+        "text": "Ganchoso."
+      },
+      {
+        "id": "D",
+        "text": "Trapezoide."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) Trapezoide.",
+    "explanation": "Respuesta correcta: D) Trapezoide.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-38",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 38,
+    "question": "El ligamento colateral radial tiene su origen a nivel de la siguiente estructura anatómica:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Capítulo."
+      },
+      {
+        "id": "B",
+        "text": "Incisura troclear."
+      },
+      {
+        "id": "C",
+        "text": "Cabeza del radio."
+      },
+      {
+        "id": "D",
+        "text": "Epicóndilo lateral."
+      }
+    ],
+    "correctOptionId": "D",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: D) Epicóndilo lateral.",
+    "explanation": "Respuesta correcta: D) Epicóndilo lateral.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-39",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 39,
+    "question": "¿Cuál de los siguientes fascículos del ligamento colateral ulnar se inserta en el proceso coronoides de la ulna?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fascículo medial."
+      },
+      {
+        "id": "B",
+        "text": "Fascículo oblicuo."
+      },
+      {
+        "id": "C",
+        "text": "Fascículo anterior."
+      },
+      {
+        "id": "D",
+        "text": "Fascículo posterior."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Fascículo anterior. El fascículo anterior va del epicóndilo medial al proceso coronoides.",
+    "explanation": "Respuesta correcta: C) Fascículo anterior. El fascículo anterior va del epicóndilo medial al proceso coronoides.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-40",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 40,
+    "question": "El siguiente músculo flexor-pronador se ubica en la capa superficial del compartimento anterior del antebrazo:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Palmar largo."
+      },
+      {
+        "id": "B",
+        "text": "Pronador cuadrado."
+      },
+      {
+        "id": "C",
+        "text": "Flexor largo del pulgar."
+      },
+      {
+        "id": "D",
+        "text": "Flexor superficial de los dedos."
+      }
+    ],
+    "correctOptionId": "A",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: A) Palmar largo. Pronador cuadrado y flexor largo del pulgar son profundos; flexor superficial de los dedos se considera capa intermedia.",
+    "explanation": "Respuesta correcta: A) Palmar largo. Pronador cuadrado y flexor largo del pulgar son profundos; flexor superficial de los dedos se considera capa intermedia.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-41",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 41,
+    "question": "La tróclea fibular se ubica en la cara lateral del siguiente hueso del pie:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Talus."
+      },
+      {
+        "id": "B",
+        "text": "Calcáneo."
+      },
+      {
+        "id": "C",
+        "text": "Cuboides."
+      },
+      {
+        "id": "D",
+        "text": "Cuneiforme."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) Calcáneo. La tróclea fibular/peroneal está en la cara lateral del calcáneo.",
+    "explanation": "Respuesta correcta: B) Calcáneo. La tróclea fibular/peroneal está en la cara lateral del calcáneo.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-42",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 42,
+    "question": "¿En cuál de los siguientes huesos del pie se localiza el surco para el tendón del músculo fibular largo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Talus."
+      },
+      {
+        "id": "B",
+        "text": "Calcáneo."
+      },
+      {
+        "id": "C",
+        "text": "Cuboides."
+      },
+      {
+        "id": "D",
+        "text": "Cuneiforme."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Cuboides. El tendón del fibular largo pasa por el surco del cuboides.",
+    "explanation": "Respuesta correcta: C) Cuboides. El tendón del fibular largo pasa por el surco del cuboides.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-43",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 43,
+    "question": "¿En cuál de los siguientes metatarsianos se localizan los huesos sesamoideos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuarto."
+      },
+      {
+        "id": "B",
+        "text": "Quinto."
+      },
+      {
+        "id": "C",
+        "text": "Primero."
+      },
+      {
+        "id": "D",
+        "text": "Segundo."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Primero. Los sesamoideos principales están bajo la cabeza del primer metatarsiano.",
+    "explanation": "Respuesta correcta: C) Primero. Los sesamoideos principales están bajo la cabeza del primer metatarsiano.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-44",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 44,
+    "question": "Los huesos cuneiformes se articulan posteriormente con el siguiente hueso del pie:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Talus."
+      },
+      {
+        "id": "B",
+        "text": "Cuboides."
+      },
+      {
+        "id": "C",
+        "text": "Navicular."
+      },
+      {
+        "id": "D",
+        "text": "Primer metatarsiano."
+      }
+    ],
+    "correctOptionId": "C",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: C) Navicular.",
+    "explanation": "Respuesta correcta: C) Navicular.",
+    "noteType": null
+  },
+  {
+    "id": "final-2026-45",
+    "bankId": "final-2026",
+    "bankLabel": "Final 2026",
+    "partialNumber": null,
+    "partialLabel": "Examen Final",
+    "examLabel": "Examen Final",
+    "isFinal": true,
+    "year": 2026,
+    "professor": "Preguntas del Dr. Luis Rosales",
+    "number": 45,
+    "question": "Indique la cantidad total de huesos del pie:",
+    "options": [
+      {
+        "id": "A",
+        "text": "25."
+      },
+      {
+        "id": "B",
+        "text": "26."
+      },
+      {
+        "id": "C",
+        "text": "27."
+      },
+      {
+        "id": "D",
+        "text": "28."
+      }
+    ],
+    "correctOptionId": "B",
+    "examExpectedOptionId": null,
+    "answerText": "Respuesta correcta: B) 26.",
+    "explanation": "Respuesta correcta: B) 26.",
+    "noteType": null
   }
 ];
